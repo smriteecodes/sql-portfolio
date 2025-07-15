@@ -1,7 +1,3 @@
-
-
-
-
 # Product Lookup - SQL MiniProject 
 
 **Scenario**
@@ -20,4 +16,3 @@ SELECT
 FROM Products 
 WHERE Price < 100
 ORDER BY Price ASC; 
-
